@@ -1,4 +1,4 @@
-### As a Software Develepor
+### I am a software developer with over 1+ year of experience in software development, dedicated to delivering and building high-quality software solutions that follow the industry best practices that ensure efficiency and long-term sustainability. I have worked on backend development with .NET ecosystem, and additionally I have experience in frontend development using Angular.
 
 <!--
 **skeytor/skeytor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
